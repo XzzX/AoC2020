@@ -1,0 +1,3 @@
+[submodule "strutil"]
+	path = strutil
+	url = https://github.com/Shot511/strutil
